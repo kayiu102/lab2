@@ -1,3 +1,18 @@
+/* initial attempt before solution was revealed
+.project {
+     margin-left: 15px;
+     background-color: #CFECF5;
+     padding: 25px;
+     width: 525px;
+}
+*/
+.project {
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+ }
+
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
